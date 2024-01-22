@@ -1,0 +1,19 @@
+Test suite war-tests: RUNNING...
+Cases: 10  Tried: 0  Errors: 0  Failures: 0Cases: 10  Tried: 1  Errors: 0  Failures: 0Cases: 10  Tried: 2  Errors: 0  Failures: 0                                           ### Error in:   2:test3
+lib\War.hs:(46,1)-(64,45): Non-exhaustive patterns in function play
+
+Cases: 10  Tried: 3  Errors: 1  Failures: 0                                           ### Error in:   3:test4
+lib\War.hs:(46,1)-(64,45): Non-exhaustive patterns in function play
+
+Cases: 10  Tried: 4  Errors: 2  Failures: 0Cases: 10  Tried: 5  Errors: 2  Failures: 0                                           ### Error in:   5:test6
+lib\War.hs:(46,1)-(64,45): Non-exhaustive patterns in function play
+
+Cases: 10  Tried: 6  Errors: 3  Failures: 0Cases: 10  Tried: 7  Errors: 3  Failures: 0                                           ### Error in:   7:test8
+lib\War.hs:(46,1)-(64,45): Non-exhaustive patterns in function play
+
+Cases: 10  Tried: 8  Errors: 4  Failures: 0                                           ### Error in:   8:test9
+lib\War.hs:(46,1)-(64,45): Non-exhaustive patterns in function play
+
+Cases: 10  Tried: 9  Errors: 5  Failures: 0                                           Cases: 10  Tried: 10  Errors: 5  Failures: 0
+Test suite war-tests: PASS
+Test suite logged to: C:\Users\Parvir\Desktop\cps506_project_haskell\war_hs\dist-newstyle\build\x86_64-windows\ghc-9.6.1\war-0.1.0.0\t\war-tests\test\war-0.1.0.0-war-tests.log
